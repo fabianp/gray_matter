@@ -1,14 +1,12 @@
-# Gray Matter
+# Gray Matter: Science Hack Day SF 2017 Project
 
-## Science Hack Day SF 2017 Project
+*Participants*: Valentina Borghesani, Fabian Pedregosa, Ines Bahri
 
-Participants: Valentina Borghesani, Fabian Pedregosa, Ines Bahri
-
-There is a rare kind of dementia that affects language more than memory (i.e., patients don't forget things, they lose knowledge of the meaning of words).
+There is a rare kind of dementia that affects language more than memory, i.e., patients don't forget things, they lose knowledge of the meaning of words.
 
 We have data on ~100 of these patients: brain atrophy maps and behavioral scores from a series of neuropsychological testing.
 
-We know clinician tend to cluster the patients in two sub-groups: primarily left vs primarily right atrophy.
+We know clinicians tend to cluster the patients in two sub-groups: primarily left vs primarily right atrophy.
 
 We tried to cluster the patients in a data-driven way by looking at the atrophy in specific regions of interest of the brain.
 
