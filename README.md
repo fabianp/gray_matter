@@ -11,7 +11,7 @@ We have data on ~100 of these patients: brain atrophy maps and behavioral scores
 We know clinicians tend to cluster the patients in two sub-groups: primarily left vs primarily right atrophy.
 
 These are the two classes identified by the Neurologist at time=0
-![](https://github.com/fabianp/gray_matter/raw/master/img/ClassificationNeurologist_time0.png)
+<img width="%50" src="https://github.com/fabianp/gray_matter/raw/master/img/ClassificationNeurologist_time0.png">
 
 These are the two classes identified by the Neurologist at time=1
 ![](https://github.com/fabianp/gray_matter/raw/master/img/ClassificationNeurologist_time1.png)
