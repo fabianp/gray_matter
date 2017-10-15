@@ -1,6 +1,6 @@
 # Gray Matter: Science Hack Day SF 2017 Project
 
-*Participants*: Valentina Borghesani, Fabian Pedregosa, Ines Bahri
+*Participants*: [Valentina Borghesani](https://twitter.com/vborghesani), [Fabian Pedregosa](https://twitter.com/fpedregosa), Ines Bahri
 
 There is a rare kind of dementia that affects language more than memory, i.e., patients don't forget things, they lose knowledge of the meaning of words.
 
@@ -24,3 +24,11 @@ For this we compared:
 * our clustering with the one made by neurologists
 * our clustering at time0 with the resuls of the same process at time1 (second visit for each patient)
 * the behavioral performance across the 3 clusters we obtained
+
+# Our Results
+
+Data-driven clustering suggests actually 3 clusters at time 0: 
+![](https://github.com/fabianp/gray_matter/raw/master/img/ClassificationUS_time0.png)
+
+Confirmed (of course atrophy advanced!) at time=1
+![](https://github.com/fabianp/gray_matter/raw/master/img/ClassificationUS_time1.png)
