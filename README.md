@@ -18,11 +18,9 @@ These are the two classes identified by the Neurologist at time=1
 
 # Our project
 
-We want to cluster the patients in a data-driven way by looking at the atrophy in specific regions of interest of the brain.
-
-For this we compared:
+We want to cluster the patients in a data-driven way by looking at the atrophy in specific regions of interest of the brain. Then we compared:
 * our clustering with the one made by neurologists
-* our clustering at time0 with the resuls of the same process at time1 (second visit for each patient)
+* our clustering at time=0 with the resuls of the same process at time=1 (second visit for each patient)
 * the behavioral performance across the 3 clusters we obtained
 
 # Our Results
