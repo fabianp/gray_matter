@@ -28,11 +28,11 @@ We want to cluster the patients in a data-driven way by looking at the atrophy i
 Data-driven clustering suggests actually 3 clusters at time=0: 
 ![](https://github.com/fabianp/gray_matter/raw/master/img/ClassificationUS_time0.png)
 
-Patients in blue have the most advanced stage of dementia. 
+It looks like patients in blue have the worse kind of atrophy (primarily on the left side), and behaviorally they present with the most advanced stage of dementia. 
 
-Patients in green are really bad at naming things.
+Even patients in green appear to have predominantly left atrophy, yet not extended to frontal areas. Behaviorally, they are really bad at naming things.
 
-Patients in red are really bad with social skills.
+Finally, patients in red, behaviorally really bad with social skills, show diffuse atrophy involving mostly the right side of the brain.
 
 And it's all confirmed (of course atrophy advanced!) at time=1
 ![](https://github.com/fabianp/gray_matter/raw/master/img/ClassificationUS_time1.png)
