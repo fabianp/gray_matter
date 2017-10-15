@@ -30,5 +30,7 @@ For this we compared:
 Data-driven clustering suggests actually 3 clusters at time 0: 
 ![](https://github.com/fabianp/gray_matter/raw/master/img/ClassificationUS_time0.png)
 
+Patients in blue have the most advanced stage of dementia. Patients in green are really bad at naming things. Patients in red are really bad with social skills.
+
 Confirmed (of course atrophy advanced!) at time=1
 ![](https://github.com/fabianp/gray_matter/raw/master/img/ClassificationUS_time1.png)
