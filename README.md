@@ -1,5 +1,8 @@
-# gray_matter
-Science Hack Day SF 2017
+# Gray Matter
+
+## Science Hack Day SF 2017 Project
+
+Participants: Valentina Borghesani, Fabian Pedregosa, Ines Bahri
 
 There is a rare kind of dementia that affects language more than memory (i.e., patients don't forget things, they lose knowledge of the meaning of words).
 
